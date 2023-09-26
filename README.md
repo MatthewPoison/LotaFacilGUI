@@ -1,8 +1,5 @@
-markdown
-Copy code
-# LotaFacil - O Jogo da Sorte
 
-![LotaFacil Logo](lotafacil_logo.png)
+# LotaFacil - O Jogo da Sorte
 
 **Descrição:**
 
